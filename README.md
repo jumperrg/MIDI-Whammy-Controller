@@ -6,6 +6,10 @@ range, with long-press auto-repeat.
 
 ![MIDI Whammy Controller](docs/hardware.png)
 
+Video demo:
+Instagram - https://instagram.com/reel/DdcA3nrou3H/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==
+Youtube - https://youtu.be/dJB8F6dx3rw
+
 ## Setup
 
 1. **Install VS Code** — download and install from
